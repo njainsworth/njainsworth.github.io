@@ -20,7 +20,7 @@ custom_js:
 
 {% bibliography -f preprints --group_by year --group_order descending %}
 
-<h1>Works in Progress</h1>
+<h1>Selected Works in Progress</h1>
 
 {% bibliography -f posters --group_by year --group_order descending %}
 
