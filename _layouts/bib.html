@@ -178,7 +178,7 @@
           {%- endif %}
           {%- if entry.scholar_query or entry.scholar_url %}
             <a
-              href="https://scholar.google.com/scholar?q={{ entry.title | uri_escape }}"
+              href="https://scholar.google.com/scholar?q={{ entry.scholar_query | uri_escape }}"
               class="btn btn-sm z-depth-0 citation-btn"
               role="button"
               data-bibkey="{{ entry.key }}"
