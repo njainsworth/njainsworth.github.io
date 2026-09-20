@@ -9,18 +9,18 @@ nav_order: 1
 custom_js:
   - citations
 ---
-<!-- _pages/publications.md -->
+
 <div class="publications">
 
-<h1>preprints</h1>
-
-{% bibliography -f preprints --group_by year --group_order descending %}
-
-<h1> peer reviewed </h1>
+<h1>Publications</h1>
 
 {% bibliography -f papers --group_by year --group_order descending %}
 
-<h1>posters</h1>
+<h1>Under Review / Working Papers</h1>
+
+{% bibliography -f preprints --group_by year --group_order descending %}
+
+<h1>Works in Progress</h1>
 
 {% bibliography -f posters --group_by year --group_order descending %}
 
