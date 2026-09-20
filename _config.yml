@@ -222,7 +222,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: Ainsworth
-  first_name: Nicholas
+  first_name: [Nicholas, J.]
 
   style: apa
   locale: en
