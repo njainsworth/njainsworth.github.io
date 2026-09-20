@@ -30,7 +30,7 @@ jobs:
       - name: Update citation counts
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-          SCHOLAR_AUTHOR_ID: sHQFKFUAAAAJ
+          SCHOLAR_AUTHOR_ID: nynKSVUAAAAJ
         run: |
           python bin/update_citations.py
 
