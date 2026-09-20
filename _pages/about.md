@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-I am a fifth year PhD candidate in Education Policy at the <a href = "https://education.uci.edu/phd-program.html"> University of California, Irvine </a>, advised by <a href ="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang</a> and <a href ="https://people.cs.uchicago.edu/~feamster/"> Nick Feamster</a>. Overall, I am interested in building <i> efficient inference systems </i> for LLM and Physical AI applications, using <i>application-specific feedback.</i>
+I am a fifth year PhD candidate in Education Policy at the <a href = "https://education.uci.edu/phd-program.html"> University of California, Irvine</a>. Overall, I am interested in the factors that shape children's access to the educational supports they need to succeed in school and beyond and how policy can improve the delviery and effectiveness of those supports at scale. 
 
 <p align="justify">
 My current research focuses on two directions. First, I am developing new Vision-Language-Action (VLA) model architectures and serving systems for <i>resource-efficient inference of long-horizon physical AI workloads.</i> Second, I am exploring how to achieve better cost–quality tradeoffs in long-horizon LLM agent serving systems through <i>joint agent-memory and KV Cache management</i>.</p>
