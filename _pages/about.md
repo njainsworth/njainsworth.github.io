@@ -20,6 +20,8 @@ I am a fifth year PhD candidate in Education Policy at the <a href = "https://ed
 <p align="justify">
 I am particularly interested in how education systems navigate the challenges of supporting students with diverse needs and from different backgrounds through the ways they structure and operate educational programming. This has led me to study educational services such as special education, gifted education, and public pre-k with the goal of better understanding how education systems differentiate supports to students, who benefits from them, and how those supports can be improved.</p>
 
+# I am particularly interested in how education systems navigate the challenges of supporting students with diverse needs and from different backgrounds through the ways they structure and operate educational programming. In much of this work, I focus on the provision of special education services and the experiences of students with disabilities, though I have also studie gifted education and public pre-k with the goal of better understanding how education systems differentiate supports to students, who benefits from them, and how those supports can be improved.
+
 
 <p align="justify"> Beyond educational supports, I have also published work on the impacts of poverty reduction efforts, such as cash transfers, on children's short-term health outcomes as well as their long-term economic well-being.</p>
 
