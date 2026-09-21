@@ -7,11 +7,11 @@ nav: true
 nav_order: 4
 
 talks:
-  - type: seminar
-    event: NAISS Lab Seminar
-    institution: Hong Kong University (remote)
-    month: April
-    month_order: 4
+  - type: public talk
+    event: Oregon Education Policy Research Center
+    institution: Education Working Group of the Oregon State Legislature
+    month: September
+    month_order: 9
     year: 2026
 
   - type: conference
