@@ -29,7 +29,7 @@ layout: default
 
     {% assign items = page.talks | default: empty %}
     {% if items and items.size > 0 %}
-      {% assign sorted = items | sort: "month_order" | sort: "year" | reverse %}
+      {% assign sorted = items | sort: "date_order" | reverse %}
 
       {% assign current_year = nil %}
       {% for t in sorted %}
@@ -47,6 +47,10 @@ layout: default
           </div>
 
           <div class="col-sm-9">
+             {% if t.title %}
+             <div><strong>{{ t.title }}</strong></div>
+         {% endif %}
+
             {% if t.event %}
               <div>{{ t.event }}</div>
             {% endif %}
