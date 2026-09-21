@@ -23,7 +23,7 @@ BIB_FILES = [
 OUT = ROOT / "assets" / "data" / "citations.json"
 
 SERPAPI_KEY = os.environ.get("SERPAPI_KEY")
-SCHOLAR_AUTHOR_ID = os.environ.get("SCHOLAR_AUTHOR_ID", "sHQFKFUAAAAJ")
+SCHOLAR_AUTHOR_ID = os.environ.get("SCHOLAR_AUTHOR_ID", "nynKSVUAAAAJ")
 
 
 def require_api_key() -> None:
