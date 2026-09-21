@@ -3,7 +3,7 @@ layout: repos
 permalink: /repositories/
 title: Repositories
 description: Selected projects and open-source contributions.
-nav: true
+nav: false
 nav_order: 3
 
 github_users:
