@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -18,10 +18,10 @@ social: true  # includes social icons at the bottom of the page
 I am a fifth year PhD candidate in Education Policy at the <a href = "https://education.uci.edu/phd-program.html"> University of California, Irvine</a>. I study the factors that shape children's access to the supports they need to succeed in school and beyond and how policy can improve the delivery and effectiveness of those supports at scale. 
 
 <p align="justify">
-I am particularly interested in how education systems navigate the challenges of supporting students with diverse needs and from different backgrounds through the ways they structure and operate educational programming. This has led me to study educational services such as special education, gifted education, and public pre-k with the goal of better understanding how education systems differentiate supports to students, who benefits from them, and how those supports can be improved.</p>
+I am particularly interested in how education systems navigate the challenges of supporting students with diverse needs and from different backgrounds through the ways they structure and operate educational programming. This has led me to study educational services such as special education, gifted education, and public pre-k with the goal of better understanding how education systems differentiate supports across students, who benefits from them, and how those supports can be improved.</p>
 
 
-<p align="justify"> In my dissertation work, I examine socioeconomic disparities in the receipt of special education services and how different policy interventions shape who is identified for services and their subsequent educational outcomes. Beyond educational supports, I have also published work on the impacts of poverty reduction efforts, such as cash transfers, on children's short-term health outcomes as well as their long-term economic well-being.</p>
+<p align="justify"> In my dissertation work, I examine socioeconomic differences in the receipt of special education services and how different policy interventions shape who is identified for services and their subsequent educational outcomes. Beyond educational supports, I have also published work on the impacts of poverty reduction efforts, such as cash transfers, on children's short-term health outcomes as well as their long-term economic well-being. Across my work, I seek to understand how policy can reduce inequality by improving children's trajectories from early childhood through K-12 schooling and into adulthood.</p>
 
 
 <p align="justify"> My research is currently supported by the 2026 <a href ="https://naeducation.org/awardee/nicholas-ainsworth/"> National Academy of Education/Spencer Dissertation Fellowship</a>. Previously, I was supported by a doctoral training grant from the U.S. Department of Education's Office of Special Education Programs. Prior to starting my PhD, I taught K-2 special education in Las Vegas, Nevada. I earned my MEd in Special Education from the <a href ="https://www.unlv.edu/education"> University of Nevada, Las Vegas</a> and my BS in Disability Studies and Political Science from <a href="https://www.vanderbilt.edu/">Vanderbilt University</a>. </p>
