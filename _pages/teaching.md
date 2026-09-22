@@ -28,7 +28,7 @@ courses:
       - label: Course Evaluations
         url: assets/pdf/Report for ESP  737I-1003 Resource Room Nicholas Ainsworth.pdf
         external: true
-    description: Master's level instructional methods course that provides supervised experience in working with students with high incidence disabilities in a resource room setting. Students develop an understanding of the principles of explicit instruction and of high-leverage practices in special education, apply these instructional approaches in structured teaching settings, and reflect on their practice. I provided weekly online synchronous instruction, developed and graded all course assignments, and provided feedback on student teaching. I also held online and in-person office hours.   
+    description: Master's level instructional methods course that provides supervised experience in working with students with high incidence disabilities in a resource room setting. Students develop an understanding of the principles of explicit instruction and of high-leverage practices in special education, apply these instructional approaches in structured teaching settings, and reflect on their practice. As the instructor of record, I provided weekly online synchronous instruction, developed and graded all course assignments, and provided feedback on student teaching. I also held online and in-person office hours.   
 ---
 
 <!-- Optional intro text below -->

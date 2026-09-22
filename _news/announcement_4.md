@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-09-04 16:11:00-0400
+date: 2026-09-17 16:11:00-0400
 inline: true
 ---
 
-Our paper titled "Reducing Intergenerational Poverty" is now published at <a href="https://doi.org/10.1016/j.acap.2026.103423"> Academic Pediatrics</a>.
+I presented some of our team's work on special education in Oregon to a group of legislators from the <i>Education Working Group</i> of the <b>Oregon State Legislature</b>.

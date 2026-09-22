@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-11-14 16:11:00-0400
+date: 2026-05-14 16:11:00-0400
 inline: true
 ---
 
-Our paper <b> A new hope for network model generalization</b> was presented at ACM HotNets’22.
+I was selected as a 2026 <a href="https://naeducation.org/awardee/nicholas-ainsworth/"> National Academy of Education/Spencer Dissertation Fellow</a> for my project titled: <b>The Effects of Special Education Policies at Scale: Identification Disparities and Student Achievement</b>.  
