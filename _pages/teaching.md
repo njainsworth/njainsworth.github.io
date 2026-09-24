@@ -16,7 +16,7 @@ courses:
       - label: Course Evaluations
         url: assets/pdf/ainsworn_Final_Evaluation__Graduate_Teaching_Assistants_W26_2026-03-13_116613.pdf
         external: true
-    description: PhD level quantitative methods course on how to apply regression analysis to investigate causal relationships. Students develop an understanding of the theoretical framework of various regression models and their assumptions, use regression models to make causal statements, and apply regression models to real-world data sets with statistical software in a reproducible manner. As the lab instructor and TA, I developed weekly lab sessions to teach students how to code in STATA and apply methods of causal inference to answer education research questions. I also held office hours and was responsible for grading student problem sets, exams, and final research papers. 
+    description: PhD level quantitative methods course on how to apply regression analysis to investigate causal relationships. Students develop an understanding of the theoretical frameworks of various regression models and their assumptions, use regression models to make causal statements, and apply regression models to real-world data sets with statistical software in a reproducible manner. As the lab instructor and TA, I developed weekly lab sessions to teach students how to code in STATA and apply methods of causal inference to answer education research questions. I also held office hours and was responsible for grading student problem sets, exams, and final research papers. 
   
 
   - course: The Resource Room
