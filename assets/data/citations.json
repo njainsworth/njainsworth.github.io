@@ -28,11 +28,11 @@
       }
     ],
     "title": "The Effects of Response to Intervention on Disability Identification and Achievement",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworth2026early": {
     "arxiv": "",
-    "cited_by": 1,
+    "cited_by": 2,
     "counting_method": "sum_matching_google_scholar_author_profile_rows",
     "doi": "10.1080/19345747.2025.2611909",
     "matched_title": "The Early Intervention and Early Childhood Special Education Workforce: Descriptive Evidence on Demographics and Turnover from Oregon",
@@ -41,7 +41,7 @@
     "scholar_rows": [
       {
         "citation_id": "nynKSVUAAAAJ:Tyk-4Ss8FVUC",
-        "cited_by": 1,
+        "cited_by": 2,
         "matched_pattern": "the early intervention and early childhood special education workforce descriptive evidence on demographics and turnover from oregon",
         "matched_title": "The Early Intervention and Early Childhood Special Education Workforce: Descriptive Evidence on Demographics and Turnover from Oregon",
         "publication_info_summary": "Journal of Research on Educational Effectiveness, 1-32, 2026",
@@ -59,7 +59,7 @@
       }
     ],
     "title": "The Early Intervention and Early Childhood Special Education Workforce: Descriptive Evidence on Demographics and Turnover from Oregon",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworth2026gifted": {
     "arxiv": "",
@@ -68,15 +68,15 @@
     "doi": "10.26300/f3f6-vf51",
     "matched_title": "Gifted Identification across the Distribution of Family Income. EdWorkingPaper No. 26-1375.",
     "query": "Gifted Identification Across the Distribution of Family Income Ainsworth, Nicholas J. and Ainsworth, Aaron J. and Cleveland, Christopher and Clark, Leah R. and Brummet, Quentin and Penner, Emily K. and Hibel, Jacob and Saultz, Andrew and Spiegel, Michelle and Penner, Andrew",
-    "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:YsMSGLbcyi4C",
+    "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:UeHWp8X0CEIC",
     "scholar_rows": [
       {
-        "citation_id": "nynKSVUAAAAJ:YsMSGLbcyi4C",
+        "citation_id": "nynKSVUAAAAJ:UeHWp8X0CEIC",
         "cited_by": 0,
         "matched_pattern": "gifted identification across the distribution of family income",
         "matched_title": "Gifted Identification across the Distribution of Family Income. EdWorkingPaper No. 26-1375.",
         "publication_info_summary": "Annenberg Institute for School Reform at Brown University, 2026",
-        "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:YsMSGLbcyi4C",
+        "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:UeHWp8X0CEIC",
         "scores": {
           "containment": 1.0,
           "inclusion": 1.0,
@@ -87,14 +87,27 @@
         },
         "source": "google_scholar_author_profile",
         "year": "2026"
-      },
+      }
+    ],
+    "title": "Gifted Identification Across the Distribution of Family Income",
+    "updated_at": "2026-11-25T06:45:50+00:00"
+  },
+  "ainsworth2026income": {
+    "arxiv": "",
+    "cited_by": 1,
+    "counting_method": "sum_matching_google_scholar_author_profile_rows",
+    "doi": "10.26300/dpwm-2673",
+    "matched_title": "School-Based Disability Identification Varies by Student Family Income",
+    "query": "School-Based Disability Identification Varies by Student Family Income Ainsworth, Nicholas J. and Cleveland, Christopher and Hibel, Jacob and Clark, Leah R. and Brummet, Quentin and Saultz, Andrew and Penner, Emily K. and Spiegel, Michelle and Yoo, Paul Y. and Cristancho, Juan C. and Hanselman, Paul and Penner, Andrew",
+    "scholar_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6621816169079423619",
+    "scholar_rows": [
       {
-        "citation_id": "nynKSVUAAAAJ:UeHWp8X0CEIC",
-        "cited_by": 0,
-        "matched_pattern": "gifted identification across the distribution of family income",
-        "matched_title": "Gifted Identification Across the Distribution of Family Income",
+        "citation_id": "nynKSVUAAAAJ:IjCSPb-OGe4C",
+        "cited_by": 1,
+        "matched_pattern": "school based disability identification varies by student family income",
+        "matched_title": "School-Based Disability Identification Varies by Student Family Income",
         "publication_info_summary": "US Census Bureau, Center for Economic Studies, 2025",
-        "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:UeHWp8X0CEIC",
+        "scholar_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6621816169079423619",
         "scores": {
           "containment": 1.0,
           "inclusion": 1.0,
@@ -105,20 +118,7 @@
         },
         "source": "google_scholar_author_profile",
         "year": "2025"
-      }
-    ],
-    "title": "Gifted Identification Across the Distribution of Family Income",
-    "updated_at": "2026-09-28T06:54:31+00:00"
-  },
-  "ainsworth2026income": {
-    "arxiv": "",
-    "cited_by": 0,
-    "counting_method": "sum_matching_google_scholar_author_profile_rows",
-    "doi": "10.26300/dpwm-2673",
-    "matched_title": "School-Based Disability Identification Varies by Student Family Income. EdWorkingPaper No. 26-1374.",
-    "query": "School-Based Disability Identification Varies by Student Family Income Ainsworth, Nicholas J. and Cleveland, Christopher and Hibel, Jacob and Clark, Leah R. and Brummet, Quentin and Saultz, Andrew and Penner, Emily K. and Spiegel, Michelle and Yoo, Paul Y. and Cristancho, Juan C. and Hanselman, Paul and Penner, Andrew",
-    "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:eQOLeE2rZwMC",
-    "scholar_rows": [
+      },
       {
         "citation_id": "nynKSVUAAAAJ:eQOLeE2rZwMC",
         "cited_by": 0,
@@ -136,35 +136,17 @@
         },
         "source": "google_scholar_author_profile",
         "year": "2026"
-      },
-      {
-        "citation_id": "nynKSVUAAAAJ:IjCSPb-OGe4C",
-        "cited_by": 0,
-        "matched_pattern": "school based disability identification varies by student family income",
-        "matched_title": "School-Based Disability Identification Varies by Student Family Income",
-        "publication_info_summary": "US Census Bureau, Center for Economic Studies, 2025",
-        "scholar_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nynKSVUAAAAJ&pagesize=100&citation_for_view=nynKSVUAAAAJ:IjCSPb-OGe4C",
-        "scores": {
-          "containment": 1.0,
-          "inclusion": 1.0,
-          "jaccard": 1.0,
-          "pattern": 1.0,
-          "renamed_same_work": false,
-          "subtitle": 0.0
-        },
-        "source": "google_scholar_author_profile",
-        "year": "2025"
       }
     ],
     "title": "School-Based Disability Identification Varies by Student Family Income",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworth2026reducing": {
     "arxiv": "",
     "cited_by": 1,
     "counting_method": "sum_matching_google_scholar_author_profile_rows",
     "doi": "10.1016/j.acap.2026.103423",
-    "matched_title": "Reducing Intergenerational Poverty",
+    "matched_title": "Reducing intergenerational poverty",
     "query": "Reducing Intergenerational Poverty Nicholas J. Ainsworth Greg J. Duncan",
     "scholar_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4082037177062989037",
     "scholar_rows": [
@@ -172,7 +154,7 @@
         "citation_id": "nynKSVUAAAAJ:WF5omc3nYNoC",
         "cited_by": 1,
         "matched_pattern": "reducing intergenerational poverty",
-        "matched_title": "Reducing Intergenerational Poverty",
+        "matched_title": "Reducing intergenerational poverty",
         "publication_info_summary": "Academic Pediatrics, 103423, 2026",
         "scholar_link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4082037177062989037",
         "scores": {
@@ -188,7 +170,7 @@
       }
     ],
     "title": "Reducing Intergenerational Poverty",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworthcomparing": {
     "arxiv": "",
@@ -200,7 +182,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "Comparing Access to Special Education Staff in Public and Private Schools",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworthearlyintervention": {
     "arxiv": "",
@@ -212,7 +194,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "The Effect of Part C Early Intervention on Elementary School Outcomes: Regression Discontinuity Evidence from North Carolina",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworthfamilyresources": {
     "arxiv": "",
@@ -224,7 +206,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "The Family Resource Dynamics of Special Education Entry and Exit Through the COVID-19 Pandemic",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworthgiftedadult": {
     "arxiv": "",
@@ -236,7 +218,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "The Long-Run Impacts of Elementary School Gifted Identification into Adulthood",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworthheadache": {
     "arxiv": "",
@@ -248,7 +230,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "The Association of Frequent Pediatric Headache with Academic, Cognitive, and Behavioral Outcomes: A Longitudinal Sibling Comparison Study",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "ainsworthprekfunding": {
     "arxiv": "",
@@ -260,7 +242,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "The Impact of State Pre-Kindergarten Funding on the Identification and Achievement of Students with Disabilities",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "cristanchopreschool": {
     "arxiv": "",
@@ -272,11 +254,11 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "Public Preschool Expansion and the Childcare Market: Evidence from California",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "duncan2025cash": {
     "arxiv": "",
-    "cited_by": 37,
+    "cited_by": 41,
     "counting_method": "sum_matching_google_scholar_author_profile_rows",
     "doi": "10.1001/jamapediatrics.2025.1612",
     "matched_title": "Cash transfers and their effect on maternal and young children\u2019s health: a randomized clinical trial",
@@ -285,7 +267,7 @@
     "scholar_rows": [
       {
         "citation_id": "nynKSVUAAAAJ:d1gkVwhDpl0C",
-        "cited_by": 37,
+        "cited_by": 41,
         "matched_pattern": "cash transfers and their effect on maternal and young children s health a randomized clinical trial",
         "matched_title": "Cash transfers and their effect on maternal and young children\u2019s health: a randomized clinical trial",
         "publication_info_summary": "JAMA pediatrics 179 (8), 867-875, 2025",
@@ -303,7 +285,7 @@
       }
     ],
     "title": "Cash Transfers and Their Effect on Maternal and Young Children\u2019s Health: A Randomized Clinical Trial",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "hibelyoungadultoutcomes": {
     "arxiv": "",
@@ -315,7 +297,7 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "Special Education, 504 Plans, and Students' Young Adult Outcomes",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   },
   "jenkinspreschoolinvestments": {
     "arxiv": "",
@@ -327,6 +309,6 @@
     "scholar_link": "",
     "scholar_rows": [],
     "title": "State Preschool Investments and Population Achievement",
-    "updated_at": "2026-09-28T06:54:31+00:00"
+    "updated_at": "2026-11-25T06:45:50+00:00"
   }
 }
